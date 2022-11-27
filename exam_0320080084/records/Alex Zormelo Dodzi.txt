@@ -1,0 +1,5 @@
+Patient ID: PID91
+Patient Name: Alex Zormelo Dodzi
+Age: 27
+Patient Temperature: 78
+Blood Pressure: 107/89

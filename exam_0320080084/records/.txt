@@ -1,0 +1,5 @@
+Patient ID: 
+Patient Name: 
+Age: 
+Patient Temperature: 
+Blood Pressure: 

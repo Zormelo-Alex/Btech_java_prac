@@ -1,0 +1,5 @@
+Patient ID: PID26457
+Patient Name: Osei Prince
+Age: 38
+Patient Temperature: 96
+Blood Pressure: 102/31

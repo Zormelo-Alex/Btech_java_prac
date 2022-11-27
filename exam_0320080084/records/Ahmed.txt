@@ -1,0 +1,5 @@
+Patient ID: 	PID39651
+Patient Name: 	Ahmed
+Age: 	20
+Patient Temperature: 	74
+Blood Pressure: 	104/90

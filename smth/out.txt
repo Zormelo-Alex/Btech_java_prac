@@ -1,0 +1,3 @@
+NAME	AGE	GENDER	
+Dzobo	25	Female	
+Alex	23	Male
